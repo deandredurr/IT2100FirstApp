@@ -22,7 +22,6 @@ else{
     print("Is greater than o")
 }
 
-
 //Optional Value- Contains the value or nil. To show if you are missing a value
 
 //nil- Absent of a value
